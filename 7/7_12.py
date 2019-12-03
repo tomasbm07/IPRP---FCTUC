@@ -8,8 +8,5 @@ new_lines = []
 for i in range(len(lines)):
     lines[i] = lines[i].strip('\n').split('/')
 
-
-
-
 print(lines)
 print(new_lines)

@@ -1,7 +1,8 @@
 file = open('primeiro.txt', 'r')
 numbers = [str(p) for p in range(10)]
-
 lines = file.readlines()
+file.close()
+
 nums = []
 print(lines)
 for i in range(len(lines)):
@@ -13,4 +14,3 @@ nums.sort()
 print(nums)
 print(list(set(nums)))
 
-file.close()

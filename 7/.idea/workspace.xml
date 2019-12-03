@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d495eb9b-71aa-48e2-92ac-7c820ae60300" name="Default Changelist" comment="" />
+    <list default="true" id="d495eb9b-71aa-48e2-92ac-7c820ae60300" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_14/dados.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_14/modelo_carta.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_12.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UCs3eX8IXtjmDCVlz7wyZyEIwt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -31,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.7_12">
+  <component name="RunManager" selected="Python.7_4">
     <configuration name="7_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="7" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,9 +159,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7_4" />
         <item itemvalue="Python.7_12" />
         <item itemvalue="Python.7_11" />
-        <item itemvalue="Python.7_4" />
         <item itemvalue="Python.7_7" />
         <item itemvalue="Python.7_6" />
       </list>
@@ -169,18 +184,33 @@
       <workItem from="1575109344765" duration="1870000" />
       <workItem from="1575125370007" duration="1038000" />
       <workItem from="1575126516735" duration="125000" />
+      <workItem from="1575378861268" duration="235000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/7$7_1.coverage" NAME="7_1 Coverage Results" MODIFIED="1574963498260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/7$7_6.coverage" NAME="7_6 Coverage Results" MODIFIED="1574967843969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/7$7_3.coverage" NAME="7_3 Coverage Results" MODIFIED="1574964836256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/7$7_4.coverage" NAME="7_4 Coverage Results" MODIFIED="1575037733523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/7$7_12.coverage" NAME="7_12 Coverage Results" MODIFIED="1575110269009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/7$7_4.coverage" NAME="7_4 Coverage Results" MODIFIED="1575379318570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/7$7_7.coverage" NAME="7_7 Coverage Results" MODIFIED="1575033598413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/7$7_2.coverage" NAME="7_2 Coverage Results" MODIFIED="1574964433234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/7$7_11.coverage" NAME="7_11 Coverage Results" MODIFIED="1575056195968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
