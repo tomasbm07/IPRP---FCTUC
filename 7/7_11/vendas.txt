@@ -1,0 +1,32 @@
+Venda a Dinheiro No 1
+--------------------------
+Empresa: Vendas & Vendas
+N.C: 185741269
+Data: 29/11/20119
+Valor: 100.20
+Vendedor: Manuel Antunes
+
+Venda a Dinheiro No 2
+--------------------------
+Empresa: Vendas & Vendas
+N.C: 185741269
+Data: 29/11/20119
+Valor: 100.20
+Vendedor: Manuel Antunes
+
+Venda a Dinheiro No 3
+--------------------------
+Empresa: Vendas & Vendas
+N.C: 185741269
+Data: 29/11/20119
+Valor: 100.20
+Vendedor: Manuel Antunes
+
+Venda a Dinheiro No 4
+--------------------------
+Empresa: Vendas & Vendas
+N.C: 18286547898
+Data: 29/11/2019
+Valor: 89.23
+Vendedor: Xoao Silva
+

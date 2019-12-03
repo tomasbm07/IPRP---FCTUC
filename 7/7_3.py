@@ -1,0 +1,7 @@
+file = open('primeiro.txt', 'a')
+file.write('28/11/2019\n')
+file.close()
+file = open('primeiro.txt', 'r')
+a = file.readlines()
+print(a)
+file.close()
