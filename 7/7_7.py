@@ -26,5 +26,10 @@ def movement():
     print(nums)
 
 
-random_number(10)
+t.speed(0)
+t.pu()
+t.goto(1, 1)
+t.pd()
+random_number(1000)
 movement()
+t.exitonclick()
