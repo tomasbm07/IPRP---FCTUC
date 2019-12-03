@@ -35,8 +35,6 @@ for i in range(len(numbers)):
 for i in range(0, len(morada), 2):
     morada[i] = morada[i].split('\n')
 
-
-
 print(numbers)
 print(nomes)
 print(morada)
