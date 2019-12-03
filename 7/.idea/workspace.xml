@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d495eb9b-71aa-48e2-92ac-7c820ae60300" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_14/nomes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/7_14/nomes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Outros Exercicios/Exercicios testes anteriores/Exame 2016-2017" beforeDir="false" afterPath="$PROJECT_DIR$/../Outros Exercicios/Exercicios testes anteriores/Exame 2016-2017" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +181,7 @@
       <workItem from="1575109344765" duration="1870000" />
       <workItem from="1575125370007" duration="1038000" />
       <workItem from="1575126516735" duration="125000" />
-      <workItem from="1575378861268" duration="7448000" />
+      <workItem from="1575378861268" duration="7863000" />
     </task>
     <task id="LOCAL-00001" summary="Minor changes">
       <created>1575379346597</created>
@@ -196,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575392952376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Minor changes">
+      <created>1575395462264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575395462264</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
