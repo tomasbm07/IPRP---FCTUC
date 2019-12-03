@@ -32,10 +32,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Outros Exercicios/Exercicios testes anteriores/Exame 2016-2017" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="a2c51520-9f19-444b-b77b-004c46ae43a2" />
   </component>
   <component name="ProjectId" id="1TW8TlhRO0SwkoV4mV2EuyL0nGb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -202,12 +206,23 @@
       <workItem from="1574851168267" duration="9580000" />
       <workItem from="1575111246373" duration="2693000" />
       <workItem from="1575194510483" duration="12664000" />
-      <workItem from="1575372085779" duration="365000" />
+      <workItem from="1575372085779" duration="1021000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/6$6_19.coverage" NAME="6_19 Coverage Results" MODIFIED="1574777941797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
