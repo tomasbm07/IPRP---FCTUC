@@ -1,6 +1,7 @@
 import faker
 fake = faker.Faker()
 
+# Alterar os paths dos ficheiros!!!!!!!!!!!
 path_file_numbers = 'C:\\Users\\tomas\Desktop\\UC\\2019-2020\\1º Semestre\\IPRP\\Exercicios\\7\\7_14\\telefone.txt'
 path_file_morada = 'C:\\Users\\tomas\Desktop\\UC\\2019-2020\\1º Semestre\\IPRP\\Exercicios\\7\\7_14\\moradas.txt'
 path_file_nomes = 'C:\\Users\\tomas\Desktop\\UC\\2019-2020\\1º Semestre\\IPRP\\Exercicios\\7\\7_14\\nomes.txt'
