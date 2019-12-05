@@ -17,8 +17,8 @@ for i in range(len(keys)):
 def ingredientes_mais_usados(dicio):
     keys = list(dicio.keys())
     values = list(dicio.values())
-    print(keys)
-    print(values)
+    # print(keys)
+    # print(values)
     size = []
     final = {}
 
