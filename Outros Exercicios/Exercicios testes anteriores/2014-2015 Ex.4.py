@@ -16,10 +16,9 @@ def contagem(original, novo):
 
     for i in range(len(lines)):
         for j in range(1, len(lines[i])):
-            lines[i][j] = int(lines[i][j])
-            soma += lines[i][j]
+            soma += int(lines[i][j])
             if j == len(lines[i])-1:
-                lines[i].append(soma)
+                lines[i].append(str(soma))
                 soma = 0
 
     for i in range(len(lines)):
@@ -32,11 +31,11 @@ def contagem(original, novo):
                 new_lines.append(lines[j])
     print(new_lines)
 
-    file = open(novo, 'w')
     for i in range(len(new_lines)):
-        new_lines[i] = ''.join(str(new_lines[i])) + '\n'
-        # new_lines[i].strip(',')
+        new_lines[i] = ' '.join(new_lines[i]) + '\n'
     print(new_lines)
+    file = open(novo, 'w')
+    file.writelines(new_lines)
     file.close()
 
 
