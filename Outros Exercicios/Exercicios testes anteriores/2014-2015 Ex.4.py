@@ -22,12 +22,13 @@ def contagem(original, novo):
                 soma = 0
 
     for i in range(len(lines)):
-        nums.append(lines[i][-1])
+        nums.append(int(lines[i][-1]))
     nums.sort()
+    print(nums)
 
     for i in range(len(lines)):
         for j in range(len(nums)):
-            if lines[i][-1] == nums[j]:
+            if int(lines[i][-1]) == nums[j]:
                 new_lines.append(lines[j])
     print(new_lines)
 
