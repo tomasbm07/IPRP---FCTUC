@@ -35,6 +35,7 @@ def contagem(original, novo):
     for i in range(len(new_lines)):
         new_lines[i] = ' '.join(new_lines[i]) + '\n'
     print(new_lines)
+
     file = open(novo, 'w')
     file.writelines(new_lines)
     file.close()
