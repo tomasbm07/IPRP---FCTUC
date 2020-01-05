@@ -21,7 +21,6 @@ def linha(tamanho, small_size, space_size):
         if lado >= tamanho:
             extra = lado - tamanho
             small_line(small_size - extra)
-            # flag = 0
             break
         else:
             small_line(small_size)
@@ -30,7 +29,6 @@ def linha(tamanho, small_size, space_size):
         if lado >= tamanho:
             extra = lado - tamanho
             small_space(space_size - extra)
-            # flag = 0
             break
         else:
             small_space(space_size)
