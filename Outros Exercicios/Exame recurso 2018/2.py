@@ -1,7 +1,6 @@
 import turtle as t
 
 t.setworldcoordinates(-100, -100, 500, 500)
-t.speed(1)
 
 
 def small_line(comp):
@@ -37,7 +36,14 @@ def linha(tamanho, small_size, space_size):
             small_space(space_size)
 
 
-def retangulo(comprimento, largura, small_line, espaco):
+def start(x, y):
+    t.pu()
+    t.goto(x, y)
+    t.pd()
+
+
+def retangulo(comprimento, largura, small_line, espaco, x, y):
+    start(x,y)
     for i in range(2):
         linha(comprimento, small_line, espaco)
         t.lt(90)
@@ -45,14 +51,23 @@ def retangulo(comprimento, largura, small_line, espaco):
         t.lt(90)
 
 
-# Comprimento, Largura, tamanho do traçejado, espaço entre as linhas
-retangulo(300, 200, 15, 4)
+def teste(comp, larg):
+    for i in range(2):
+        t.fd(comp)
+        t.lt(90)
+        t.fd(larg)
+        t.lt(90)
 
-for i in range(2):
-    t.fd(300)
-    t.lt(90)
-    t.fd(200)
-    t.lt(90)
+
+comprimento = 300
+largura = 200
+x = 0
+y = 0
+tamanho = 15
+espaco = 4
+
+retangulo(comprimento, largura, tamanho, espaco, x, y)
+teste(comprimento, largura)
 
 t.hideturtle()
 t.exitonclick()
