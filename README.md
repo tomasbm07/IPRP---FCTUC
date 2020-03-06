@@ -1,3 +1,3 @@
-# IPRP---FCTUC
+# IPRP - Introdução á Programação e Resolução de Problemas
 ## Cenas da cadeira de IPRP
-#### LEI 2019/2010   Tomás Mendes
+#### Tomás Mendes - LEI 2019/2010 - 1º Semestre
